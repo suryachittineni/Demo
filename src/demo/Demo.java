@@ -19,5 +19,6 @@ public class Demo {
         System.out.println("My name is poojitha");
 		  
 		  Object obj = new Object();
+		  Object obj2 = new Object();
        }
 }
